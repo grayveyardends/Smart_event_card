@@ -6,6 +6,7 @@ This repo is not maintained and might not recieve constant pull request the curr
 ![](assets/image2.jpg)
 ![](assets/image.jpg)
 Smart Event Card
+done
 
 This project is a wearable card you can carry at a physical event, like a conference, festival, or race. It is meant to make the event feel more interactive and to help you keep track of what you have done during the day.
 
